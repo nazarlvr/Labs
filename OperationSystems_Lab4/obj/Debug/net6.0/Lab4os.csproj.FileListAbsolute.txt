@@ -1,0 +1,15 @@
+D:\Sums\visualprojects\Lab4os\bin\Debug\net6.0\Lab4os.exe
+D:\Sums\visualprojects\Lab4os\bin\Debug\net6.0\Lab4os.deps.json
+D:\Sums\visualprojects\Lab4os\bin\Debug\net6.0\Lab4os.runtimeconfig.json
+D:\Sums\visualprojects\Lab4os\bin\Debug\net6.0\Lab4os.dll
+D:\Sums\visualprojects\Lab4os\bin\Debug\net6.0\Lab4os.pdb
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.csproj.AssemblyReference.cache
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.AssemblyInfoInputs.cache
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.AssemblyInfo.cs
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.csproj.CoreCompileInputs.cache
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.dll
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\refint\Lab4os.dll
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.pdb
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\Lab4os.genruntimeconfig.cache
+D:\Sums\visualprojects\Lab4os\obj\Debug\net6.0\ref\Lab4os.dll
