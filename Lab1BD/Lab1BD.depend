@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1613089684 source:d:\oop\bd_lr1\lab1bd\lab1bd.cpp
+	<fstream>
+	<vector>
+	<map>
+	<algorithm>
+	<set>
+	"Train.h"
+
+1612962535 d:\oop\bd_lr1\lab1bd\train.h
+	<string>
+
+1612730819 source:d:\oop\bd_lr1\lab1bd\train.cpp
+	"Train.h"
+

@@ -1,0 +1,6 @@
+TrainID  TrainType  Available  FirstWorkerNumber  WorkersQuantity
+700         fast           1          0           2
+1100         fast           1          -1           0
+900         fast           1          2           2
+1000         suburban           1          -1           0
+600         fast           1          -1           0

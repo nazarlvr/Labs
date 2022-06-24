@@ -1,0 +1,45 @@
+insert-m
+700 fast
+insert-m
+800 intreg
+insert-m
+900 fast
+insert-m
+1000 suburban
+insert-m
+1100 fast
+insert-s
+700 20 Dmyt Hol
+insert-s
+800 25 Kir Bright
+insert-s
+800 30 Andrew Tall
+insert-s
+900 35 Mike Ball
+insert-s
+900 40 Serh Huf
+insert-s
+900 45 Tomio Yu
+ut-m
+ut-s
+del-m
+800
+ut-m
+ut-s
+del-s
+40
+ut-m
+ut-s
+insert-m
+600 intreg
+insert-s
+600 5 Den Sh
+ut-m
+ut-s
+update-m
+600 fast
+update-s
+5 Dinny Huge 700
+ut-m
+ut-s
+stop
