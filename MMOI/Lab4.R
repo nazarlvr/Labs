@@ -1,0 +1,26 @@
+library(ggplot2)
+library(skedastic)
+library(dplyr)
+x = read.csv('D:\\Sums\\MMOI\\heart.csv', header=TRUE)
+attach(x)
+x$cp = as.factor(x$cp)
+x<-group_by(x, x$cp)
+
+stripchart(age ~ cp, xlab = "Age", ylab = "ChestPainType", col=c("green", "red", "blue", "black"))
+means <- tapply(age, cp, mean)
+means
+ggplot(x, aes(x = age)) + geom_histogram() + facet_wrap(~ cp, ncol = 1)
+
+boxplot(age~cp, data = x, xlab = "", ylab = "", varwidth = T, col = "lightblue")
+bartlett.test(age~cp, data = x)
+white_lm(lm(age ~ cp, data = x))
+model<-lm(age ~ cp, data = x)
+anova(model)
+summary(model)
+kruskal.test(age ~ cp, x)
+
+contrasts(x$cp)
+contrasts(x$cp)<-contr.sum(n=4)
+contrasts(x$cp)
+model2<-lm(age~cp, data=x)
+summary(model2)
