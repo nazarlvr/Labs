@@ -1,0 +1,4 @@
+add R1,11111011
+invert R1,0
+add R2,10101010
+invert R2,1
