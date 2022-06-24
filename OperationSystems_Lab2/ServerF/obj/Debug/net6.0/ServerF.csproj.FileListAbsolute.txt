@@ -1,0 +1,15 @@
+D:\Sums\visualprojects\ServerF\bin\Debug\net6.0\ServerF.exe
+D:\Sums\visualprojects\ServerF\bin\Debug\net6.0\ServerF.deps.json
+D:\Sums\visualprojects\ServerF\bin\Debug\net6.0\ServerF.runtimeconfig.json
+D:\Sums\visualprojects\ServerF\bin\Debug\net6.0\ServerF.dll
+D:\Sums\visualprojects\ServerF\bin\Debug\net6.0\ServerF.pdb
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.csproj.AssemblyReference.cache
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.AssemblyInfoInputs.cache
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.AssemblyInfo.cs
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.csproj.CoreCompileInputs.cache
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.dll
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\refint\ServerF.dll
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.pdb
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ServerF.genruntimeconfig.cache
+D:\Sums\visualprojects\ServerF\obj\Debug\net6.0\ref\ServerF.dll

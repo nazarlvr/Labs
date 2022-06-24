@@ -1,0 +1,15 @@
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.csproj.AssemblyReference.cache
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.AssemblyInfoInputs.cache
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.AssemblyInfo.cs
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.csproj.CoreCompileInputs.cache
+D:\Sums\visualprojects\ServerG\bin\Debug\net6.0\ServerG.exe
+D:\Sums\visualprojects\ServerG\bin\Debug\net6.0\ServerG.deps.json
+D:\Sums\visualprojects\ServerG\bin\Debug\net6.0\ServerG.runtimeconfig.json
+D:\Sums\visualprojects\ServerG\bin\Debug\net6.0\ServerG.dll
+D:\Sums\visualprojects\ServerG\bin\Debug\net6.0\ServerG.pdb
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.dll
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\refint\ServerG.dll
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.pdb
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ServerG.genruntimeconfig.cache
+D:\Sums\visualprojects\ServerG\obj\Debug\net6.0\ref\ServerG.dll

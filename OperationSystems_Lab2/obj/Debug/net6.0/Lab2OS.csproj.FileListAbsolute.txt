@@ -1,0 +1,15 @@
+D:\Sums\visualprojects\Lab2OS\bin\Debug\net6.0\Lab2OS.exe
+D:\Sums\visualprojects\Lab2OS\bin\Debug\net6.0\Lab2OS.deps.json
+D:\Sums\visualprojects\Lab2OS\bin\Debug\net6.0\Lab2OS.runtimeconfig.json
+D:\Sums\visualprojects\Lab2OS\bin\Debug\net6.0\Lab2OS.dll
+D:\Sums\visualprojects\Lab2OS\bin\Debug\net6.0\Lab2OS.pdb
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.csproj.AssemblyReference.cache
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.AssemblyInfoInputs.cache
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.AssemblyInfo.cs
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.csproj.CoreCompileInputs.cache
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.dll
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\refint\Lab2OS.dll
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.pdb
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\Lab2OS.genruntimeconfig.cache
+D:\Sums\visualprojects\Lab2OS\obj\Debug\net6.0\ref\Lab2OS.dll
