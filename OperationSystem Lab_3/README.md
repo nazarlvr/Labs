@@ -1,1 +1,1 @@
-Parallel random matrix multiply + keyboard hook
+C++ Laboratory Work (Parallel random matrix multiply + keyboard hook)
